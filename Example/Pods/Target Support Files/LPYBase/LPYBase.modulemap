@@ -1,0 +1,6 @@
+framework module LPYBase {
+  umbrella header "LPYBase-umbrella.h"
+
+  export *
+  module * { export * }
+}

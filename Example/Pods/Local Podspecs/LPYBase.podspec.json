@@ -1,0 +1,22 @@
+{
+  "name": "LPYBase",
+  "version": "0.1.0",
+  "summary": "A short description of LPYBase.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/skylpy/LPYBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "skylpy": "807446126@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/skylpy/LPYBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LPYBase/Classes/**/*"
+}
